@@ -35,7 +35,13 @@ A blockchain-based Pokemon NFT game where players can battle their digital colle
 ```bash
 npm install @openzeppelin/contracts
 ```
+
 Testing
+How to use:
+Installation:
+```bash
+npm install --save-dev hardhat chai @nomicfoundation/hardhat-toolbox
+```
 ```bash
 npx hardhat test
 ```
